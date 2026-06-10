@@ -1,13 +1,7 @@
 {
   "mcpServers": {
     "majico": {
-      "command": "npx",
-      "args": ["-y", "user-majico-mcp@0.4.1"],
-      "env": {
-        "MAJICO_API_URL": "https://api.majico.xyz",
-        "MAJICO_PROJECT_ID": "${MAJICO_PROJECT_ID}",
-        "MAJICO_API_KEY": "${MAJICO_API_KEY}"
-      }
+      "url": "https://api.majico.xyz/mcp"
     }
   }
 }
