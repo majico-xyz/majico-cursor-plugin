@@ -7,7 +7,7 @@
     "email": "support@majico.xyz"
   },
   "homepage": "https://majico.xyz",
-  "repository": "https://github.com/cap-jmk-launchpad/majico-cursor-plugin",
+  "repository": "https://github.com/majico-xyz/majico-cursor-plugin",
   "license": "MIT",
   "keywords": ["mcp", "majico", "brand", "design-tokens", "studio", "cursor"],
   "logo": "assets/logo.svg"
