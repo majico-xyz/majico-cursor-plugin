@@ -1,0 +1,14 @@
+{
+  "name": "majico",
+  "version": "0.4.1",
+  "description": "Majico MCP for Cursor: brand guidelines, design tokens, logos, Studio canvas, and export tools for Pro/Creator projects.",
+  "author": {
+    "name": "Majico",
+    "email": "support@majico.xyz"
+  },
+  "homepage": "https://majico.xyz",
+  "repository": "https://github.com/cap-jmk-launchpad/majico-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "majico", "brand", "design-tokens", "studio", "cursor"],
+  "logo": "assets/logo.svg"
+}
