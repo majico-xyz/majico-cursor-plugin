@@ -8,11 +8,11 @@ Official [Majico.xyz](https://majico.xyz) MCP server for Cursor. Gives Agent acc
 
 Set these environment variables (system or in your MCP config):
 
-| Variable | Description |
-|----------|-------------|
-| `MAJICO_PROJECT_ID` | Project UUID from Majico |
-| `MAJICO_API_KEY` | Project API key |
-| `MAJICO_API_URL` | Optional — defaults to `https://api.majico.xyz` |
+| Variable            | Description                                     |
+| ------------------- | ----------------------------------------------- |
+| `MAJICO_PROJECT_ID` | Project UUID from Majico                        |
+| `MAJICO_API_KEY`    | Project API key                                 |
+| `MAJICO_API_URL`    | Optional — defaults to `https://api.majico.xyz` |
 
 Get credentials from [Account → Integrations](https://majico.xyz/account/integrations) (one-click Cursor install with prefilled values).
 
@@ -28,4 +28,5 @@ This plugin runs [`user-majico-mcp`](https://www.npmjs.com/package/user-majico-m
 ## Links
 
 - [Majico](https://majico.xyz)
+- [API docs](https://majico.xyz/docs/api-reference)
 - [Support](mailto:support@majico.xyz)
